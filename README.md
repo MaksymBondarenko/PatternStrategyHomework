@@ -1,0 +1,2 @@
+# PatternStrategyHomework
+Реализация паттерна Strategy
