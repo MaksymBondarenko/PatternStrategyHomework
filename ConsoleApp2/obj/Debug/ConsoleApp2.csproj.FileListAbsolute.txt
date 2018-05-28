@@ -1,0 +1,7 @@
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\PatternStrategyHomework\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

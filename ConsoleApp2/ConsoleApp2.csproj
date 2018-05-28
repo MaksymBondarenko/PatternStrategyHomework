@@ -42,8 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Character\Character.cs" />
-    <Compile Include="Character\Queen.cs" />
+    <Compile Include="Behaviors\AxeBehavior.cs" />
+    <Compile Include="Behaviors\BowAndArrowBehavior.cs" />
+    <Compile Include="Behaviors\iWeaponBehavior.cs" />
+    <Compile Include="Behaviors\KnifeBehavior.cs" />
+    <Compile Include="Behaviors\SwordBehavior.cs" />
+    <Compile Include="character\Character.cs" />
+    <Compile Include="character\King.cs" />
+    <Compile Include="character\Knight.cs" />
+    <Compile Include="character\Queen.cs" />
+    <Compile Include="character\Troll.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

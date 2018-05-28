@@ -7,19 +7,15 @@ using ConsoleApp2.Behaviors;
 
 namespace ConsoleApp2.character
 {
-    public class Queen : Character
+    public class Knight : Character
     {
         public override void display()
         {
-            Console.WriteLine("I'm the queen");
+            Console.WriteLine("I'm the knight");
         }
-
-        public Queen()
+        public Knight()
         {
-            iWB = new KnifeBehavior();
+            iWB = new BowAndArrowBehavior();
         }
-     
-        
     }
-    
 }
